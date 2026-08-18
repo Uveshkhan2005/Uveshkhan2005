@@ -100,7 +100,7 @@ In the long term, I plan to expand my expertise toward **Data Science and Artifi
 
 ## Connect
 
-**LinkedIn:** [linkedin.com/in/uveshkhan-lohani](www.linkedin.com/in/uveshkhan-lohani-615793273)
+**LinkedIn:** [linkedin.com/in/uveshkhan-lohani](https://www.linkedin.com/in/uveshkhan-lohani-615793273/)
 
 **Email:** [uveshkhanlohani65@gmail.com](mailto:uveshkhanlohani65@gmail.com)
 
