@@ -4,7 +4,9 @@
 
 Information Technology graduate building a career in **Data Analytics and Business Intelligence**, with a focus on transforming raw data into clear, actionable insights that support data-driven decision-making.
 
-I am developing practical expertise through hands-on work with real-world datasets, analytical case studies, data visualization, reporting, SQL analysis, and dashboard development. My current focus is strengthening my capabilities across **Microsoft Excel, SQL, PostgreSQL, Power BI, and Python** while building a focused, professional analytics portfolio.
+I develop practical analytics skills through hands-on projects involving **Python, SQL, PostgreSQL, Microsoft Excel, Power BI, data visualization, business analysis, and dashboard development**.
+
+My portfolio focuses on complete, business-oriented projects that demonstrate the workflow from **raw data to analysis, visualization, insights, and decision support**.
 
 ---
 
@@ -20,6 +22,9 @@ I am developing practical expertise through hands-on work with real-world datase
 - Business Analysis
 - KPI Analysis
 - Customer Analytics
+- Churn Analysis
+- RFM Analysis
+- Sales Analysis
 - Profitability Analysis
 - Data Storytelling
 
@@ -37,9 +42,10 @@ I am developing practical expertise through hands-on work with real-world datase
 
 - Microsoft Excel
 - Power BI
-- Dashboard Development
 - DAX
 - Power Query
+- Dashboard Development
+- Data Modeling
 - Pivot Tables
 - Pivot Charts
 - Business Reporting
@@ -54,9 +60,9 @@ I am developing practical expertise through hands-on work with real-world datase
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-## Project 01 — Customer Churn Analysis
+### Project 01 — Customer Churn Analysis
 
 **End-to-End Data Analytics Project | Python | SQL | PostgreSQL | Power BI**
 
@@ -105,13 +111,24 @@ Retention Recommendations
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `SQL` `PostgreSQL` `Power BI` `DAX` `Power Query` `Git` `GitHub`
 
-### Dashboard
+### Power BI Dashboard
 
-The project includes a **3-page Power BI dashboard**:
+The project includes a completed **3-page Power BI dashboard**:
 
-1. **Executive Overview**
-2. **Risk & Drivers**
-3. **Revenue & Retention**
+1. **Customer Churn — Executive Overview**
+2. **Customer Churn — Risk & Drivers**
+3. **Customer Churn — Revenue & Retention**
+
+### Project Status
+
+```text
+Python Analysis       ✅ Completed
+SQL / PostgreSQL      ✅ Completed
+Risk Analysis         ✅ Completed
+Revenue Analysis      ✅ Completed
+Power BI Dashboard    ✅ Completed
+Documentation         ✅ Completed
+```
 
 ### Repository
 
@@ -119,7 +136,7 @@ The project includes a **3-page Power BI dashboard**:
 
 ---
 
-## Project 02 — E-Commerce Sales & Customer Analytics
+### Project 02 — E-Commerce Sales & Customer Analytics
 
 **End-to-End Data Analytics Project | Python | SQL | PostgreSQL | RFM | Power BI**
 
@@ -151,9 +168,11 @@ SQL Business Analysis
 Power BI Dashboard
       ↓
 Business Insights
+      ↓
+Business Recommendations
 ```
 
-### Current Results
+### Key Results
 
 - **524,878** cleaned sales records
 - **19,960** unique orders
@@ -190,6 +209,25 @@ Hibernating
 Others
 ```
 
+### Power BI Dashboard
+
+The project includes a completed **3-page Power BI dashboard**:
+
+1. **E-Commerce Sales & Customer Analytics — Executive Overview**
+2. **Customer & RFM Analytics**
+3. **Revenue & Product Analysis**
+
+The dashboard covers:
+
+- Revenue performance
+- Order trends
+- Customer behavior
+- RFM segments
+- Customer contribution
+- Product performance
+- Country-level analysis
+- Monthly trends
+
 ### Tools Used
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `SQL` `PostgreSQL` `RFM Analysis` `Power BI` `DAX` `Power Query` `Git` `GitHub`
@@ -197,11 +235,12 @@ Others
 ### Project Status
 
 ```text
-Python Analysis       ✅
-RFM Analysis          ✅
-PostgreSQL            ✅
-SQL Analysis          ✅
-Power BI Dashboard    ⏳
+Python Analysis       ✅ Completed
+RFM Analysis          ✅ Completed
+PostgreSQL            ✅ Completed
+SQL Analysis          ✅ Completed
+Power BI Dashboard    ✅ Completed
+Documentation         ✅ Completed
 ```
 
 ### Repository
@@ -210,7 +249,7 @@ Power BI Dashboard    ⏳
 
 ---
 
-## Project 03 — Sales & Profitability Analysis
+### Project 03 — Sales & Profitability Analysis
 
 **End-to-End Data Analytics Project | Python | SQL | PostgreSQL | Power BI**
 
@@ -244,9 +283,11 @@ SQL Business Analysis
 Power BI Dashboard
       ↓
 Business Insights
+      ↓
+Business Recommendations
 ```
 
-### Current Results
+### Key Results
 
 - **10,194** sales records analyzed
 - **5,111** unique orders
@@ -259,7 +300,7 @@ Business Insights
 - **3.96 days** average shipping time
 - **159** loss-making customers identified
 - **3** loss-making sub-categories identified
-- **2** loss-making months identified in the analyzed period
+- **1,901** loss-making transactions identified
 
 ### Key Profitability Analysis
 
@@ -291,6 +332,29 @@ The project also analyzes:
 - Shipping performance
 - Monthly sales and profit
 - Category loss rates
+- Discount impact on profitability
+
+### Power BI Dashboard
+
+The project includes a completed **3-page Power BI dashboard**:
+
+1. **Sales & Profitability Analysis**
+2. **Sales & Profitability Performance**
+3. **Profitability Drivers & Risk**
+
+The dashboard covers:
+
+- Executive KPIs
+- Monthly sales and profit
+- Category performance
+- Regional profitability
+- Discount impact
+- Sub-category performance
+- Customer segments
+- Shipping performance
+- Top and bottom products
+- Loss-making customers
+- Loss-making sub-categories
 
 ### Tools Used
 
@@ -299,11 +363,13 @@ The project also analyzes:
 ### Project Status
 
 ```text
-Python Analysis       ✅
-Profitability Analysis ✅
-PostgreSQL            ✅
-SQL Analysis          ✅
-Power BI Dashboard    ⏳
+Python Analysis        ✅ Completed
+Profitability Analysis ✅ Completed
+PostgreSQL             ✅ Completed
+SQL Analysis           ✅ Completed
+Power BI Dashboard     ✅ Completed
+Business Insights      ✅ Completed
+Documentation          ✅ Completed
 ```
 
 ### Repository
@@ -312,13 +378,13 @@ Power BI Dashboard    ⏳
 
 ---
 
-## Project 04 — Data Analyst Job Market Analysis
+### Project 04 — Data Analyst Job Market Analysis
 
 **Planned Project | Python | API | SQL | PostgreSQL | Power BI**
 
 A planned analytics project focused on collecting and analyzing job-market data for Data Analyst and related analytics roles.
 
-The project will demonstrate an end-to-end workflow that includes **API-based data collection, data cleaning, Python analysis, SQL querying, PostgreSQL, and Power BI reporting**.
+The project is intended to demonstrate an end-to-end workflow involving **API-based data collection, data cleaning, Python analysis, SQL querying, PostgreSQL, and Power BI reporting**.
 
 ### Planned Workflow
 
@@ -342,6 +408,8 @@ SQL Analysis
 Power BI Dashboard
       ↓
 Job Market Insights
+      ↓
+Business / Career Insights
 ```
 
 ### Planned Analysis Areas
@@ -367,12 +435,13 @@ Job Market Insights
 ### Project Status
 
 ```text
-Repository Setup     ✅
-Project Development  ⏳
-API / Data Collection ⏳
-Python Analysis      ⏳
-PostgreSQL / SQL     ⏳
-Power BI             ⏳
+Repository Setup       ✅ Completed
+Project Development    ⏳ Planned
+API / Data Collection  ⏳ Planned
+Python Analysis        ⏳ Planned
+PostgreSQL / SQL       ⏳ Planned
+Power BI               ⏳ Planned
+Documentation          ⏳ Planned
 ```
 
 ### Repository
@@ -381,7 +450,39 @@ Power BI             ⏳
 
 ---
 
-# Currently Developing
+## Portfolio Status
+
+My current portfolio consists of **four focused Data Analytics projects**.
+
+| Project | Focus | Status |
+|---|---|:---:|
+| Customer Churn Analysis | Customer Retention & Risk | ✅ Completed |
+| E-Commerce Sales & Customer Analytics | Sales & Customer Analytics | ✅ Completed |
+| Sales & Profitability Analysis | Sales & Profitability | ✅ Completed |
+| Data Analyst Job Market Analysis | Job Market Analytics | ⏳ Planned |
+
+### Completed Portfolio Projects
+
+The first three projects demonstrate complete end-to-end workflows involving:
+
+- Python analysis
+- Data cleaning
+- Exploratory Data Analysis
+- SQL
+- PostgreSQL
+- Power BI
+- DAX
+- Power Query
+- Business KPIs
+- Business insights
+- Business recommendations
+- GitHub documentation
+
+---
+
+## Currently Developing
+
+My current learning and development focus includes:
 
 - Advanced SQL
 - PostgreSQL
@@ -393,10 +494,13 @@ Power BI             ⏳
 - Advanced Data Visualization
 - Business Case Study Analysis
 - Data Storytelling
+- Advanced Excel
+
+My next major portfolio development focus is **Data Analyst Job Market Analysis**.
 
 ---
 
-# Analytical Approach
+## Analytical Approach
 
 I focus on learning through practical application and end-to-end problem solving.
 
@@ -426,7 +530,7 @@ My objective is to go beyond individual tool knowledge and develop the ability t
 
 ---
 
-# Professional Objective
+## Professional Objective
 
 I am currently preparing for opportunities in:
 
@@ -450,10 +554,9 @@ In the long term, I plan to expand my expertise toward **Data Science and Artifi
 
 ---
 
-# 2026 Development Goals
+## 2026 Development Goals
 
-- Build a strong **4-project Data Analytics portfolio**
-- Complete and document the remaining portfolio dashboards
+- Complete the **Data Analyst Job Market Analysis** project
 - Strengthen advanced SQL and PostgreSQL skills
 - Develop stronger Power BI and DAX capabilities
 - Improve advanced Excel skills
@@ -462,10 +565,11 @@ In the long term, I plan to expand my expertise toward **Data Science and Artifi
 - Prepare for Data Analyst interviews
 - Maintain consistent GitHub contributions
 - Develop stronger business communication and data storytelling skills
+- Continue building practical, business-focused analytics projects
 
 ---
 
-# Portfolio Focus
+## Portfolio Focus
 
 My portfolio focuses on projects that combine:
 
@@ -499,11 +603,20 @@ Project 04
 Data Analyst Job Market Analytics
 ```
 
-The goal is to demonstrate not only technical skills, but also the ability to understand business problems, analyze data, identify meaningful patterns, and communicate results through clear dashboards and reports.
+The goal is to demonstrate not only technical skills, but also the ability to:
+
+- Understand business problems
+- Prepare and validate data
+- Analyze data using Python and SQL
+- Build business-focused dashboards
+- Identify meaningful patterns
+- Develop KPIs
+- Communicate insights
+- Provide practical recommendations
 
 ---
 
-# Technical Stack
+## Technical Stack
 
 ```text
 Python
@@ -529,7 +642,7 @@ VS Code
 
 ---
 
-# Data Analytics Capabilities
+## Data Analytics Capabilities
 
 ### Data Preparation
 
@@ -558,10 +671,10 @@ VS Code
 - SQL Queries
 - Aggregations
 - Filtering
-- GROUP BY
-- HAVING
-- JOINs
-- CTEs
+- `GROUP BY`
+- `HAVING`
+- `JOINs`
+- Common Table Expressions
 - Window Functions
 - PostgreSQL
 - Business KPI Analysis
@@ -578,7 +691,7 @@ VS Code
 
 ---
 
-# GitHub Portfolio Structure
+## GitHub Portfolio Structure
 
 ```text
 Data Analytics Portfolio
@@ -600,7 +713,7 @@ The portfolio prioritizes **quality, completeness, documentation, and business r
 
 ---
 
-# Learning & Growth
+## Learning & Growth
 
 I am continuously learning, building, and applying data analytics skills to practical business problems.
 
@@ -622,22 +735,25 @@ I am currently focused on turning the knowledge I have gained into practical, po
 
 ---
 
-# Connect
+## Connect
 
-**LinkedIn:**  
+### LinkedIn
+
 [linkedin.com/in/uveshkhan-lohani](https://www.linkedin.com/in/uveshkhan-lohani-615793273/)
 
-**Email:**  
-[uveshkhanlohani65@gmail.com](mailto:uveshkhanlohani65@gmail.com)
+### GitHub
 
-**GitHub:**  
 [github.com/Uveshkhan2005](https://github.com/Uveshkhan2005)
+
+### Email
+
+[uveshkhanlohani65@gmail.com](mailto:uveshkhanlohani65@gmail.com)
 
 ---
 
-# 🚀 Career Direction
+## Career Direction
 
-**Current Focus:**
+### Current Focus
 
 ```text
 Data Analyst
@@ -646,7 +762,7 @@ Business Analyst
 BI Analyst
 ```
 
-**Future Learning Direction:**
+### Future Learning Direction
 
 ```text
 Data Analytics
@@ -681,3 +797,5 @@ Business Insights
  ↓
 Decision Support
 ```
+
+The objective is to demonstrate practical ability rather than simply list technologies or tools.
