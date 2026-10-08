@@ -377,14 +377,35 @@ Documentation          ✅ Completed
 [View Sales & Profitability Analysis →](https://github.com/Uveshkhan2005/sales-profitability-analysis)
 
 ---
+### Project 04 – Data Analyst Job Market Analysis
 
-### Project 04 — Data Analyst Job Market Analysis
+**Python | API | Pandas | SQL | PostgreSQL | Power BI | DAX**
 
-**Planned Project | Python | API | SQL | PostgreSQL | Power BI**
+A complete end-to-end **Data Analytics project** focused on collecting and analyzing job-market data to understand **job demand, hiring companies, locations, experience requirements, employment types, remote opportunities, and technical skills**.
 
-A planned analytics project focused on collecting and analyzing job-market data for Data Analyst and related analytics roles.
+The project demonstrates a practical analytics workflow involving:
 
-The project is intended to demonstrate an end-to-end workflow involving **API-based data collection, data cleaning, Python analysis, SQL querying, PostgreSQL, and Power BI reporting**.
+**API-based data collection → Data Cleaning → Feature Engineering → Python / Pandas Analysis → PostgreSQL → SQL Analysis → Power BI Dashboard → Business Insights**
+
+Key areas analyzed include:
+
+- 📊 Job demand by category
+- 🏢 Hiring companies
+- 🌍 Job locations
+- 🎓 Experience levels
+- 🏠 Remote vs. on-site opportunities
+- 💼 Employment types
+- 🧠 Technical skill demand
+- 🔗 Skill combinations
+- 📈 Skills by experience level
+
+The final deliverable includes a **3-page Power BI dashboard** covering:
+
+1. **Job Market Overview**
+2. **Skills & Requirements**
+3. **Companies & Opportunities**
+
+**Status: ✅ Completed**
 
 ### Planned Workflow
 
@@ -436,12 +457,12 @@ Business / Career Insights
 
 ```text
 Repository Setup       ✅ Completed
-Project Development    ⏳ Planned
-API / Data Collection  ⏳ Planned
-Python Analysis        ⏳ Planned
-PostgreSQL / SQL       ⏳ Planned
-Power BI               ⏳ Planned
-Documentation          ⏳ Planned
+Project Development    ✅ Completed
+API / Data Collection  ✅ Completed
+Python Analysis        ✅ Completed
+PostgreSQL / SQL       ✅ Completed
+Power BI               ✅ Completed
+Documentation          ✅ Completed
 ```
 
 ### Repository
@@ -459,11 +480,11 @@ My current portfolio consists of **four focused Data Analytics projects**.
 | Customer Churn Analysis | Customer Retention & Risk | ✅ Completed |
 | E-Commerce Sales & Customer Analytics | Sales & Customer Analytics | ✅ Completed |
 | Sales & Profitability Analysis | Sales & Profitability | ✅ Completed |
-| Data Analyst Job Market Analysis | Job Market Analytics | ⏳ Planned |
+| Data Analyst Job Market Analysis | Job Market Analytics | ✅ Completed |
 
 ### Completed Portfolio Projects
 
-The first three projects demonstrate complete end-to-end workflows involving:
+The all projects demonstrate complete end-to-end workflows involving:
 
 - Python analysis
 - Data cleaning
@@ -536,7 +557,6 @@ I am currently preparing for opportunities in:
 
 - Data Analyst
 - Junior Data Analyst
-- Business Analyst
 - BI Analyst
 
 I am particularly interested in roles involving:
@@ -556,7 +576,6 @@ In the long term, I plan to expand my expertise toward **Data Science and Artifi
 
 ## 2026 Development Goals
 
-- Complete the **Data Analyst Job Market Analysis** project
 - Strengthen advanced SQL and PostgreSQL skills
 - Develop stronger Power BI and DAX capabilities
 - Improve advanced Excel skills
@@ -758,7 +777,6 @@ I am currently focused on turning the knowledge I have gained into practical, po
 ```text
 Data Analyst
 Junior Data Analyst
-Business Analyst
 BI Analyst
 ```
 
