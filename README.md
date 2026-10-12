@@ -1,6 +1,6 @@
 # Uveshkhan Lohani
 
-**B.E. Information Technology Graduate | Aspiring Data Analyst**
+**B.E. Information Technology Graduate | Data Analyst**
 
 Information Technology graduate building a career in **Data Analytics and Business Intelligence**, with a focus on transforming raw data into clear, actionable insights that support data-driven decision-making.
 
